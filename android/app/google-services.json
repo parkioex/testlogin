@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "371169447683",
+    "project_id": "testlogin-65266",
+    "storage_bucket": "testlogin-65266.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371169447683:android:6bf15df6a5cbf083aea336",
+        "android_client_info": {
+          "package_name": "com.worradorn.testmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371169447683-v2a10aojlv4bkd35tc534c9a533rc4eb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgdrfD835wDLImoI9H76zrBu3DSc6B8pM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371169447683-v2a10aojlv4bkd35tc534c9a533rc4eb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
